@@ -1,0 +1,129 @@
+body {
+    font-family: 'Caveat', cursive
+  }
+  nav {
+    height: 60px;
+    width: 100%;
+    background-color: #CA7B8E;
+    display: inline-block;
+    padding: center;
+    outline: 1px solid black
+  }
+  .jumbotron {
+    outline: 5px solid #1E93A8;
+    text-align: center;
+    height: 300px;
+    background-image:url(/images/background_2.jpg);
+    background-repeat: repeat-x;
+    background-size: contain;
+ }
+ .jumbotron .display-4 {
+  color: #EADEC4;
+  text-align: center;
+ }
+ .jumbotron .lead {
+  color: #EADEC4;
+  text-align: center;
+ }
+ .wrapper .img {
+  width:20px;
+  height: 20px;
+ }
+ #exampleModal .modal-body img {
+  height:300px;
+  width:200px;
+ }
+ #carouselExample .carousel-item img {
+  height: 500px;
+  width: 200px;
+  float: center;
+ }
+ #carouselExample {
+  width: 500px;
+  height: 700px;
+  margin-left: 190px; 
+  margin-top: 50px;
+  outline: 3px;
+  box-shadow: 15px solid darkgrey;
+}
+ .card5 img {
+  width: 250px;
+  height: 300px;
+  background-image: url(//images/Boj_1.jpg);
+ }
+
+  .container {
+    outline: 2px soli black;
+    background-color:#CA7B8E;
+  }
+ 
+  .left {
+    float: left;
+    height: 350px;
+    background-color: #1E93A8;
+    width: 300px;
+    text-align: center;
+    /* outline: 1px solid black; */
+    margin-top: 15px;
+    padding: 15px;
+  }
+  .bottomLeft {
+    float: bottom left;
+    height: 600px;
+    background-color: #1E93A8;
+    width: 300px;
+    text-align: center;
+    /* outline: 1px solid black; */
+    font-size: 18px;
+    
+  }
+  .bottomLeft .btn {
+    color:white;
+    background-color: #CA7B8E;
+    margin-top: 50px;
+  }
+  .bottomLeft .underPicText {
+    color: #EADEC4;
+    font-size: 20px;
+  }
+  .title_left {
+    font-size: 25px;
+    color: #EADEC4;
+  }
+ 
+  .bottomLeft .button {
+    display: inline-block;
+  }
+  .button modal {
+    background-color:blueviolet;
+  }
+
+  .right {
+    float: right;
+    background-color: #E49A03;
+    height: 587px;
+    width: 855px;
+    text-align: center;
+    outline: 5px solid #CA7B8E;
+    font-size: 35px;
+    margin-top: -591px;
+    font-size: 18px;
+  }
+ 
+  .card1 {
+    float: left;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 350px;
+    width: 250px;
+    margin: 35px;
+    margin-top: 80px;
+    outline: 1px solid black;
+    background-image: url(Boj_1.png);
+  }
+  
+ 
+ 
+  
+
+  
